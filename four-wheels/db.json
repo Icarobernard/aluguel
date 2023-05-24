@@ -1,0 +1,67 @@
+{
+  "adverts": [
+    {
+      "id": 2,
+      "model": "Model-S",
+      "brand": "Tesla",
+      "description": "Carro elétrico velho",
+      "fabrication": "08/08/2000",
+      "name": "Claudio Mauricio",
+      "email": "jose@gmail.com",
+      "phone": "(55)8899-4455",
+      "createdAt": "22/01/2020",
+      "price": "R$10.000"
+    },
+    {
+      "id": 3,
+      "model": "Model-S",
+      "brand": "Tesla",
+      "description": "Carro elétrico novo",
+      "fabrication": "08/08/2000",
+      "name": "Teves",
+      "email": "jose@gmail.com",
+      "phone": "(55)8899-4455",
+      "createdAt": "22/01/2023"
+    },
+    {
+      "id": 4,
+      "model": "Model-S",
+      "brand": "Tesla",
+      "description": "Carro elétrico novo",
+      "fabrication": "08/08/2000",
+      "name": "Teves",
+      "email": "jose@gmail.com",
+      "phone": "(55)8899-4455",
+      "createdAt": "22/01/2023"
+    },
+    {
+      "model": "Corsa",
+      "brand": "Fiat",
+      "description": "corsinha bolado",
+      "fabrication": "2023-04-19",
+      "name": "Pato",
+      "email": "test@gmail.com",
+      "phone": "323223232",
+      "price": "500000",
+      "id": 5
+    },
+    {
+      "model": "Eletrico",
+      "brand": "Fusca",
+      "description": "Fusca",
+      "fabrication": "2023-05-09",
+      "name": "Icaro",
+      "email": "icarobernar@gmail",
+      "phone": "12345678",
+      "price": "100000",
+      "id": 6
+    }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "identifier": "test@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
